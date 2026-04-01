@@ -10,7 +10,7 @@ UFO Sightings Data Analysis
 
 import pandas as pd
 
-df = pd.read_csv("data/data.csv")
+df = pd.read_csv("data.csv")
 
 print(df.head())
 
@@ -70,6 +70,7 @@ plt.xlabel("Year")
 plt.ylabel("Number of Events")
 
 plt.grid(True)
+plt.savefig("output.png")
 plt.show()
 
 top_cities = df["City"].value_counts().head(10)

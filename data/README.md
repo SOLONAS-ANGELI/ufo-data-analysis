@@ -28,3 +28,7 @@ This project analyzes UFO sightings data to uncover trends over time and identif
 ## 📌 Output
 - Line chart showing UFO sightings per year
 - Top cities and shapes printed in terminal
+
+## 📊 Sample Output
+
+![Chart](output.png)
