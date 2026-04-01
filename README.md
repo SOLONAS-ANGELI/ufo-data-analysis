@@ -17,3 +17,9 @@
 ## Output
 - Line chart showing UFO sightings per year
 - Top cities and shapes printed in terminal
+
+## How to Run
+1.Install dependencies: pip install pandas matplotlib
+
+2. Run the script:
+python main.py
