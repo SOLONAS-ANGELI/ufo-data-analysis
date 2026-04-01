@@ -23,3 +23,7 @@
 
 2. Run the script:
 python main.py
+
+## Sample Output
+
+![Chart](./output.png)
