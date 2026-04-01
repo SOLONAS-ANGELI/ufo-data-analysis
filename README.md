@@ -26,4 +26,4 @@ python main.py
 
 ## Sample Output
 
-![Chart](./output.png)
+![Chart](output.png)
