@@ -25,4 +25,5 @@
 python main.py
 
 ## Sample Output
-<img src="output.png" width="600">
+
+![Chart](data/output.png)
